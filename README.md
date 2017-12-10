@@ -1,4 +1,4 @@
-#推送到我的Kindle（Send2MyKindle）#
+推送到我的Kindle（Send2MyKindle）
 ----------
 
 ## 1. 功能简介 ##
