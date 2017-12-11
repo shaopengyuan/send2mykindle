@@ -47,4 +47,5 @@ Send2MyKindle计划后续开发如下功能：
 
 * 对更多格式（例如EPUB）的支持，其中EPUB计划使用Kindlegen的命令行或者[Calibre](https://github.com/kovidgoyal/calibre)中的格式转换代码进行。
 * 对右键快捷菜单发送电子书功能的支持。
+
 大家需要的其他功能也可以在这列出来，希望对Kindle有兴趣的开发者能够参与进来，共同努力让Send2MyKindle越来越好。
