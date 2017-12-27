@@ -9,7 +9,7 @@
 ![软件界面](https://i.imgur.com/SkxyOFB.jpg)
 ## 2. 使用步骤 ##
 ### 2.1.使用前的准备工作 ###
-假定使用者手头已有Kindle设备或者Kindle电子书阅读软件，使用前请将send2mykindle@163.com加入到亚马逊账户认可的[发件人电子邮箱列表]，添加方法见亚马逊[官方帮助文档](http:://www.amazon.cn/gp/help/customer/display.html?nodeId=201974240)。
+假定使用者手头已有Kindle设备或者Kindle电子书阅读软件，使用前请将send2mykindle@163.com加入到亚马逊账户认可的[发件人电子邮箱列表]，添加方法见亚马逊[官方帮助文档](http://www.amazon.cn/gp/help/customer/display.html?nodeId=201974240)。
 ### 2.2.进行推送 ###
 
 
